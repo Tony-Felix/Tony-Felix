@@ -24,15 +24,9 @@ Here are some ideas to get you started:
 ## About me
 
 <h1>Desenvolvimento</h1>
-<p align="left"> Seja bem vindo. Aqui eu falo um pouco sobre minhas experiencias. <br>
-  
-  Atualmente moro no Rio de Janeiro Zona Oeste.<br>
-  <br>
-  Estudei desenvolvimento de Software na escola Trybe!<br>
-  Aprendi muitosobre sobre Soft-Skills e Hard-Skills.
-
-  Hoje trabalho na Zallpy Digital como Desenvolvedor Java Trainee e aprendo muito com a mão na massa. Meus colegas e minha    liderança me dão Feedbacks construtivos e me ajudam a saber onde melhorar.
-
+<p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade e trabalho em equipe. Quero viajar o mundo enquanto trabalho remotamente em projetos desafiadores de tecnologia. <br/>
+<br/>
+Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando sql, mysql, Panda, Jungle. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
 <p>
 
 <h2>Soft Skills</h2>
@@ -64,17 +58,11 @@ Here are some ideas to get you started:
       <li>MySql</li>
       <li>MongoDB</li>
       <li>Node.js</li>
-      <li>Heroku</li>
       <li>Python</li>
       <li>SCRUM</li>
       <li>KANBAN</li>
-      <li>JAVA (Spring)</li>
     </ul>
   </p>
 </p>
 
 </p>
-<h2>Experiência</h2>
-<ul>
-        <li><p>1.Desenvolvedor Java Trainee, na Zallpy: 17/01/2023 - Atualmente</p></li>
-</ul>
