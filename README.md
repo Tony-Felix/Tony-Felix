@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando sql, mysql, Panda, Jungle. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
 
   <p> Contato: antonio.felixx@gmail.com </p>
+  <p> Linkedin: https://www.linkedin.com/antônio-félix</p>
 <p>
 
 <h2>Soft Skills</h2>
