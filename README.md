@@ -54,6 +54,7 @@ Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferram
       <li>HTML5</li>
       <li>CSS3</li>
       <li>JavaScript</li>
+      <li>TypeScript</li>
       <li>Tests</li>
       <li>React.js</li>
       <li>Redux</li>
@@ -61,6 +62,9 @@ Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferram
       <li>MongoDB</li>
       <li>Node.js</li>
       <li>Python</li>
+      <li>DJango</li>
+      <li>Panda</li>
+      <li>Flask</li>
       <li>SCRUM</li>
       <li>KANBAN</li>
     </ul>
