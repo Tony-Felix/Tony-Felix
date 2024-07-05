@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 
-# Tony Felix
+# Antônio Felix
 ## About me
 
 <h1>Desenvolvimento</h1>
