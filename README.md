@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1>Desenvolvimento</h1>
 <p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade e trabalho em equipe. Quero viajar o mundo enquanto trabalho remotamente em projetos desafiadores de tecnologia. <br/>
 <br/>
-Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando sql, mysql, Pandas, Django. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
+Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando Javascript, Python, Node, Mongodb, Flask, FastApi, sql, mysql, Pandas, Django. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
 
   <p> Contato: toni.felixx@gmail.com </p>
   <p> https://www.linkedin.com/antônio-félix</p>
@@ -64,6 +64,7 @@ Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferram
       <li>Node.js</li>
       <li>Python</li>
       <li>DJango</li>
+      <li>FastApi</li>
       <li>Pandas</li>
       <li>Flask</li>
       <li>SCRUM</li>
