@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## About me
 
 <h1>Desenvolvimento</h1>
-<p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade e trabalho em equipe. Quero viajar o mundo enquanto trabalho remotamente em projetos desafiadores de tecnologia. <br/>
+<p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade, autonomia e trabalho em equipe. Meu aprendizado é constante, sou apaixonado por tecnologia e quero trabalhar em projetos desafiadores.<br/>
 <br/>
 Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando Javascript, Python, Node, Mongodb, Flask, FastApi, sql, mysql, Pandas, Django. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
 
