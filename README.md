@@ -72,8 +72,6 @@ Ferramentas de Desenvolvimento:
     <li>Liderança</li>
   </ul>
 
-<br>
-
 <h2>Hard Skills</h2>
 
   <p>
