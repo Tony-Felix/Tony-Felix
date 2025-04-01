@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1>Desenvolvimento</h1>
 <p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade, autonomia e trabalho em equipe. Meu aprendizado é constante, sou apaixonado por tecnologia e quero trabalhar em projetos desafiadores.<br/>
 <br/>
-Sou desenvolvedor full stack com foco em backend e utilizo as seguintes tecnologias: <br>
+Sou desenvolvedor full stack com foco em backend e utilizo as seguintes tecnologias: <br> <br>
 Front-end:
 <span>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
