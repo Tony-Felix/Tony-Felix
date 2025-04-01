@@ -26,10 +26,27 @@ Here are some ideas to get you started:
 <h1>Desenvolvimento</h1>
 <p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade, autonomia e trabalho em equipe. Meu aprendizado é constante, sou apaixonado por tecnologia e quero trabalhar em projetos desafiadores.<br/>
 <br/>
-Sou desenvolvedor full stack e utilizo CSS, react, redux e HTML, que são ferramentas para front-end. Já no back-end desenvolvo utilizando Javascript, Python, Node, Mongodb, Flask, FastApi, sql, mysql, Pandas, Django. Além disso, tenho dominio de docker, git, node. Segue meu Github com meus projetos: "https://github.com/Tony-Felix"
+Sou desenvolvedor full stack com foco em backend. Utilizo:
+  <span>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</span>
 
+  <p> Github com meus projetos: https://github.com/Tony-Felix </p>
   <p> Contato: toni.felixx@gmail.com </p>
-  <p> https://www.linkedin.com/antônio-félix</p>
+  <p> Likedin: https://www.linkedin.com/antônio-félix</p>
 <p>
 
 <h2>Soft Skills</h2>
