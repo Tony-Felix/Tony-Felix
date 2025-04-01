@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 <h1>Desenvolvimento</h1>
 <p align="left"> Transitei das artes para a programação, trazendo adaptabilidade, criatividade, autonomia e trabalho em equipe. Meu aprendizado é constante, sou apaixonado por tecnologia e quero trabalhar em projetos desafiadores.<br/>
 <br/>
-Sou desenvolvedor full stack com foco em backend.
-  Front-end: 
+Sou desenvolvedor full stack com foco em backend e utilizo as seguintes tecnologias: <br>
+Front-end:
 <span>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-</span>
-  Back-end:
+</span> <br>
+Back-end:
 <span>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -46,12 +46,12 @@ Sou desenvolvedor full stack com foco em backend.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pandas/pandas.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-</span>
-  Ferramentas de Desenvolvimento:
+</span> <br>
+Ferramentas de Desenvolvimento:
 <span>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-</span>
+</span> <br>
 
   <p> Github com meus projetos: https://github.com/Tony-Felix </p>
   <p> Contato: toni.felixx@gmail.com </p>
