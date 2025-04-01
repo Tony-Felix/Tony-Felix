@@ -93,6 +93,7 @@ Ferramentas de Desenvolvimento:
       <li>FastApi</li>
       <li>Pandas</li>
       <li>Flask</li>
+      <li>Docker</li>
       <li>SCRUM</li>
       <li>KANBAN</li>
     </ul>
