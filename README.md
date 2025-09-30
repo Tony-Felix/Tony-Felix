@@ -52,7 +52,7 @@ Ferramentas de Desenvolvimento:
 </span> <br>
 
   <p> whatsapp: https://wa.me/5521979881897 </p>
-  <p> whatsapp: https://www.instagram.com/tonyfelixtatuador/ </p>
+  <p> Instagram: https://www.instagram.com/tonyfelixtatuador/ </p>
   <p> Email: toni.felixx@gmail.com </p>
   <p> Github com meus projetos: https://github.com/Tony-Felix </p>
   <p> Likedin: https://www.linkedin.com/antônio-félix</p>
