@@ -51,8 +51,10 @@ Ferramentas de Desenvolvimento:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </span> <br>
 
+  <p> whatsapp: https://wa.me/5521979881897 </p>
+  <p> whatsapp: https://www.instagram.com/tonyfelixtatuador/ </p>
+  <p> Email: toni.felixx@gmail.com </p>
   <p> Github com meus projetos: https://github.com/Tony-Felix </p>
-  <p> Contato: toni.felixx@gmail.com </p>
   <p> Likedin: https://www.linkedin.com/antônio-félix</p>
 <p>
 
